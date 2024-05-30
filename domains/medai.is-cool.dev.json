@@ -1,0 +1,21 @@
+{
+    "description": "Project Description",
+
+    "domain": "is-cool.dev",
+    "subdomain": "medai",
+
+    "owner": {
+        "repo": "https://github.com/Porozin/MedAi",
+        "email": "fernandeswallyson5@gmail.com"
+    },
+
+    "record": {
+        "A": ["3.149.214.46:5000"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "example.com",
+        "MX": ["mx1.example.com", "mx2.example.com"],
+        "TXT": ["example_verification=1234567890"]
+    },
+
+    "proxied": false
+}
